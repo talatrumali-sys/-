@@ -1,0 +1,9 @@
+{
+  "appId": "com.romachallenge.tahaddi",
+  "appName": "تحدّي التوقعات",
+  "webDir": "www",
+  "backgroundColor": "#0a0c0a",
+  "plugins": {
+    "StatusBar": { "style": "DARK", "backgroundColor": "#0A3321", "overlaysWebView": false }
+  }
+}
